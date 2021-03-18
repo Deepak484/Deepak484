@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepak484
+- 👋 Hi, I’m Deepak Rajwar
 - 👀 I’m interested in Frontend Web Development.
 - 🌱 I’m currently learning Reactjs,javaScript,css,HTML and JAVA.
 - 💞️ I’m looking to collaborate on software Industry particulary in web Development field.
